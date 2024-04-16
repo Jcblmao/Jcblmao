@@ -1,4 +1,4 @@
-![](assets/images/header.png)
+![](assets/images/header.jpg)
 
 <p>
   <h1 align="center">
