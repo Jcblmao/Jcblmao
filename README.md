@@ -8,15 +8,13 @@
     <samp>( "🌏 Australian" | "☁️ Technical Delivery Manager" | "🧑🏻‍💻 Gamer" )</samp>
   </p>
 </p>
-
 <p align="center">
   <a href="https://github.com/jcblmao">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jcblmao&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jcblmao&show_icons=true&theme=github_dark&count_private=false&include_all_commits=true&hide_border=true" />
   </a>
   <a href="https://githyub.com/jcblmao">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Jcblmao&theme=transparent&mode=weekly&exclude_days=Sun%2CSat&hide_border=true" alt="GitHub Streak" /></a>
 </p>
-
 -----
 <p align="center">
   <a href="https://github.com/jcblmao">
