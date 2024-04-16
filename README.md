@@ -1,32 +1,31 @@
-**Hi** 👋 
+![](assets/images/header.png)
 
-I'm Jacob, also known as "Jcb" or "Jcblmao" by some.. I enjoy gaming and PowerShelling :)
+<p>
+  <h1 align="center">
+    <b>Hello there, I'm <a href="https://github.com/jcblmao">@jcblmao</a> 👋</b>
+  </h1>
+  <p align="center">
+    <samp>( "🌏 Australian" | "☁️ Technical Delivery Manager" | "🧑🏻‍💻 Gamer" )</samp>
+  </p>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/jcblmao">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jcblmao&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" />
+  </a>
+  <a href="https://githyub.com/jcblmao">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Jcblmao&theme=transparent&mode=weekly&exclude_days=Sun%2CSat&hide_border=true" alt="GitHub Streak" /></a>
+</p>
 
-<div id="body" align="center">
-	<div>
-		<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PS" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VS Code" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman " width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Windows" width="40" height="40"/>&nbsp;
-	</div>
-	<div>
-		<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jcblmao&theme=dark&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-		<picture>
-			<source
-				srcset="https://github-readme-stats.vercel.app/api?username=jcblmao&show_icons=true&theme=dark"
-				media="(prefers-color-scheme: dark)"
-				/>
-			<source
-				srcset="https://github-readme-stats.vercel.app/api?username=jcblmao&show_icons=true"
-				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-				/>
-			<img src="https://github-readme-stats.vercel.app/api?username=jcblmao&show_icons=true"/>
-		</picture>
-	</div>
-</div>
+-----
+<p align="center">
+  <a href="https://github.com/jcblmao">
+    <img src="https://img.shields.io/badge/github-@jcblmao-211F1F?logo=github&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/jacobnn">
+    <img src="https://img.shields.io/badge/linkedin-jacobnn-0072B1?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="https://x.com/jcblmao">
+    <img src="https://img.shields.io/badge/@jcblmao-000000?logo=x&logoColor=white&style=flat-square" />
+  </a>
+</p>
