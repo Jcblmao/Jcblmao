@@ -1,13 +1,9 @@
-<div id="header" align="center">
-	<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZpZTN5cjUyc3Z4MTZhdmV1OHRsYWYwd2wwanBidHZ6dDhkbzFxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aR5rlTveXlgJ91ikaJ/giphy.gif" width="200"/>
-	<div id="badges">
-		<a href="https://twitter.com/jcblmao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jcblmao" height="30" width="40" /></a>
-		<a href="https://linkedin.com/in/jacobnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacobnn" height="30" width="40" /></a>
-		<a href="https://instagram.com/jacobnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jacobnn" height="30" width="40" /></a>
-		<a href="https://www.youtube.com/c/jcblmao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jcblmao" height="30" width="40" /></a>
-	</div>
-</div>
-<p></p>
+**Hi** 👋 
+
+I'm Jacob, also known as "Jcb" or "Jcblmao" by some.. I enjoy gaming and PowerShelling :)
+
+---
+
 <div id="body" align="center">
 	<div>
 		<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
@@ -34,21 +30,3 @@
 		</picture>
 	</div>
 </div>
-
----
-
-
-<!--
-**Jcblmao/Jcblmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
