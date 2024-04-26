@@ -5,7 +5,7 @@
     <b>Hello there, I'm <a href="https://github.com/jcblmao">@jcblmao</a> 👋</b>
   </h1>
   <p align="center">
-    <samp>( "🌏 Australian" | "☁️ Technical Delivery Manager" | "🧑🏻‍💻 Gamer" )</samp>
+    <samp>🌏 Australian | ☁️ Solutions Architect | 🧑🏻‍💻 Gamer </samp>
   </p>
 </p>
 <p align="center">
