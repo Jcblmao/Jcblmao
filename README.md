@@ -4,8 +4,7 @@
   <h1 align="center">
     <b>Hello there, I'm <a href="https://github.com/jcblmao">@jcblmao</a> 👋</b>
   </h1>
-  <p align="center">
-    <samp>🌏 Australian | ☁️ Solutions Architect | 🧑🏻‍💻 Gamer </samp>
+  <p align="center">🌏 Australian | ☁️ Solutions Architect | 🧑🏻‍💻 Gamer
   </p>
 </p>
 <p align="center">
@@ -15,7 +14,6 @@
   <a href="https://githyub.com/jcblmao">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Jcblmao&theme=transparent&mode=weekly&exclude_days=Sun%2CSat&hide_border=true" alt="GitHub Streak" /></a>
 </p>
------
 <p align="center">
   <a href="https://github.com/jcblmao">
     <img src="https://img.shields.io/badge/github-@jcblmao-211F1F?logo=github&logoColor=white&style=flat-square" />
