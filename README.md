@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://github.com/Jcblmao/Jcblmao/blob/main/assets/images/header.jpeg/">
+</p>
 
 <p>
   <h1 align="center">
